@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/127
     wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
 description: The light princess -- The giant's heart -- The golden key.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18811#The-Light-Princess-and-Other-Fairy-Stories
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2006-07-12'
 gutenberg_type: Text
